@@ -1,3 +1,7 @@
 Resolusi :
 - Belajar Ai
 - Belajar Phyton
+
+Road Map Week 1
+- Belajar GitHub
+- Belajar Phyton
