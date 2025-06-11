@@ -3,3 +3,4 @@ Rencana Materi yang harus dipelajari
   * GIT Desktop
 -  AI
   * Belajar penggunaan AI
+  * Coba freelance
