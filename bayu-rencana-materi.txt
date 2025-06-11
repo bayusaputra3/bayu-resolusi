@@ -1,0 +1,3 @@
+Rencana Materi yang harus dipelajari
+-  GIT
+-  AI
