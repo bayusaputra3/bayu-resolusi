@@ -1,3 +1,5 @@
 Rencana Materi yang harus dipelajari
 -  GIT
+  * GIT Desktop
 -  AI
+  * Belajar penggunaan AI
